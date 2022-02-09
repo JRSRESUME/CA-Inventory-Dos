@@ -1,0 +1,17 @@
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Example\bin\Debug\Example.exe.config
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Example\bin\Debug\Example.exe
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Example\bin\Debug\Example.pdb
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Example\obj\x86\Debug\Example.exe
+C:\Users\EL CULO\AppData\Local\Temporary Projects\Example\obj\x86\Debug\Example.pdb
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\bin\Debug\Example.exe.config
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\obj\x86\Debug\Example.exe
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\obj\x86\Debug\Example.pdb
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\bin\Debug\Example.exe
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\bin\Debug\Example.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Example\Example\obj\x86\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\bin\Debug\Example.exe.config
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\obj\x86\Debug\Example.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\obj\x86\Debug\Example.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\bin\Debug\Example.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\bin\Debug\Example.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\obj\x86\Debug\Example.csprojResolveAssemblyReference.cache

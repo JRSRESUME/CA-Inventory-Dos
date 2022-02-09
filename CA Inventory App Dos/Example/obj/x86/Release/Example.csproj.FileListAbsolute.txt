@@ -1,0 +1,29 @@
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\bin\Release\Example.exe.config
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\bin\Release\Example.exe
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\bin\Release\Example.XmlSerializers.dll
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\bin\Release\Example.pdb
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\obj\x86\Release\Example.exe
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\obj\x86\Release\Example.pdb
+C:\Users\EL CULO\documents\visual studio 2010\Projects\Example\Example\obj\x86\Release\Example.XmlSerializers.dll
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Example\Example\obj\x86\Release\Example.csprojResolveAssemblyReference.cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\bin\Release\Example.exe.config
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\obj\x86\Release\Example.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\obj\x86\Release\Example.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\obj\x86\Release\Example.XmlSerializers.dll
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\bin\Release\Example.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\bin\Release\Example.XmlSerializers.dll
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\bin\Release\Example.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App\Example\obj\x86\Release\Example.csprojResolveAssemblyReference.cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App Dos\Example\bin\Release\Example.exe.config
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App Dos\Example\obj\x86\Release\Example.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App Dos\Example\obj\x86\Release\Example.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\CA Inventory App Dos\Example\obj\x86\Release\Example.XmlSerializers.dll
+C:\Users\ToePunch\Downloads\Projects\Projects\CA Inventory App Dos\Example\bin\Release\Example.exe.config
+C:\Users\ToePunch\Downloads\Projects\Projects\CA Inventory App Dos\Example\bin\Release\Example.exe
+C:\Users\ToePunch\Downloads\Projects\Projects\CA Inventory App Dos\Example\bin\Release\Example.XmlSerializers.dll
+C:\Users\ToePunch\Downloads\Projects\Projects\CA Inventory App Dos\Example\bin\Release\Example.pdb
+C:\Users\ToePunch\Downloads\Projects\Projects\CA Inventory App Dos\Example\obj\x86\Release\Example.csprojAssemblyReference.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\CA Inventory App Dos\Example\obj\x86\Release\Example.csproj.CoreCompileInputs.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\CA Inventory App Dos\Example\obj\x86\Release\Example.exe
+C:\Users\ToePunch\Downloads\Projects\Projects\CA Inventory App Dos\Example\obj\x86\Release\Example.pdb
+C:\Users\ToePunch\Downloads\Projects\Projects\CA Inventory App Dos\Example\obj\x86\Release\Example.XmlSerializers.dll
